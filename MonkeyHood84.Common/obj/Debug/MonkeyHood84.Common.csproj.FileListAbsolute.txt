@@ -1,0 +1,10 @@
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\MonkeyHood84.Common.dll.config
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\MonkeyHood84.Common.dll
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\MonkeyHood84.Common.pdb
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\EntityFramework.dll
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\EntityFramework.SqlServer.dll
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\EntityFramework.xml
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\bin\Debug\EntityFramework.SqlServer.xml
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\obj\Debug\MonkeyHood84.Common.csprojResolveAssemblyReference.cache
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\obj\Debug\MonkeyHood84.Common.dll
+X:\Development\Personal\MonkeyHood\Common\MonkeyHood84.Common\obj\Debug\MonkeyHood84.Common.pdb
